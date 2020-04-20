@@ -45,7 +45,7 @@ This project is stable and ready for production. An online demo is available her
 * Update the end of <code>/application/config/config.php</code> if you want to change the default behaviour.
 * It is recommended to change the private and public RSA keys (in <code>assets/keys</code>).
 * Check your installation with the <code>requirements.php</code> page at the root of your installation (e.g. http://localhost/lms/requirements.php).
-* The default user is *bbalet* and password is *bbalet*.
+
 
 ## Contribute
 
@@ -58,7 +58,7 @@ This project is stable and ready for production. An online demo is available her
 ### Contributors
 
 * Github and Google groupe users for their ideas and tests.
-* All participants of the Transifex project.
+
 
 ### Third party libraries and components
 
